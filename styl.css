@@ -557,10 +557,7 @@ footer p {
         width: 80%;
         margin: 15px auto;
     }
-    #contact {
-        padding-bottom: 25px;
-    }
     #contact form button {
-        margin: 0 0 0 22px;
+        margin-left: 20px;
     }
 }
